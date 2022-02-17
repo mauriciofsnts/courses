@@ -1,0 +1,19 @@
+{
+  "name": "node-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@swc/core": "^1.2.141",
+    "@swc/jest": "^0.2.17",
+    "@types/jest": "^27.4.0",
+    "@types/node": "^17.0.18",
+    "jest": "^27.5.1",
+    "ts-node": "^10.5.0",
+    "typecript": "^0.0.1-security",
+    "typescript": "^4.5.5"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
